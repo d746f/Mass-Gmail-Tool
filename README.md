@@ -62,7 +62,7 @@ To run the Mass Gmail Tool, follow these steps:
 2. Run the tool:
 
    ```bash
-   python mass_gmail_tool.py
+   python main.py
    ```
 
 Follow the on-screen prompts and instructions to utilize the tool's features.
