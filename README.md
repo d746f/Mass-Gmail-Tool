@@ -13,9 +13,6 @@ This README will guide you through the installation process, usage, and customiz
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -40,7 +37,7 @@ Before you get started with the Mass Gmail Tool, make sure you have the followin
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Mass-Gmail-Tool.git
+   git clone https://github.com/shoto-whitefire/Mass-Gmail-Tool.git
    ```
 
 2. Change into the project directory:
@@ -49,11 +46,8 @@ Before you get started with the Mass Gmail Tool, make sure you have the followin
    cd Mass-Gmail-Tool
    ```
 
-3. Install the required Python packages:
+3. Change "Your Email" and "Your_password" , add your email and auth app password:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -72,19 +66,6 @@ To run the Mass Gmail Tool, follow these steps:
    ```
 
 Follow the on-screen prompts and instructions to utilize the tool's features.
-
-## Configuration
-
-You can customize the tool's behavior and appearance by modifying the configuration files provided. Details on configuration options can be found in the [configuration documentation](docs/configuration.md).
-
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to the Mass Gmail Tool, please follow our [contributing guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Thank you for using the Mass Gmail Tool! We hope it simplifies your Gmail management and automation tasks. If you have any questions, encounter issues, or want to contribute, please don't hesitate to get in touch with us.
+
+<a href="https://www.buymeacoffee.com/whitefireshoto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="whitefireshoto" /></a>
